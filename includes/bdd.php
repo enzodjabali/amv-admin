@@ -1,0 +1,1 @@
+<?php $bdd = new PDO("mysql:host=127.0.0.1;dbname=avm;charset=utf8", "hugo", "ServEnzoHUGO2//3"); ?>

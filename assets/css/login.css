@@ -1,0 +1,62 @@
+body {
+  overflow: hidden;
+}
+
+div.login {
+  top: 0;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  background-color: white;
+  width: 600px;
+  height: auto;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+  padding: 50px 40px 110px 40px;
+  border-radius: 10px;
+}
+
+div.wave {
+  margin-top: 25vh;
+}
+
+div.under-wave {
+  height: 100vh;
+  background-color: #0062cc;
+}
+
+.btnSubmit
+{
+width: 50%;
+border-radius: 150px;
+padding: 1.5%;
+border: none;
+cursor: pointer;
+font-weight: 600;
+color: #fff;
+background-color: #0062cc;
+}
+
+.ForgetPwd{
+color: #0062cc;
+font-weight: 600;
+text-decoration: none;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+div.logo {
+  margin-left: 10px;
+  position: absolute;
+  top: 0;
+}
+
+div.logo img {
+  width: 300px;
+}
+
+h1 {
+  margin-bottom: 50px;
+  color: #EC8D36;
+}
